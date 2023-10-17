@@ -1,0 +1,15 @@
+
+
+
+Thistle:cdb4db ffc8dd ffafcc bde0fe a2d2ff
+font-family-1: https://coolors.co/palette/cdb4db-ffc8dd-ffafcc-bde0fe-a2d2ff
+
+Eerie black: c2321 7d98a1 5e6572 a9b4c2 eef1ef
+font-family-2: https://coolors.co/palette/1c2321-7d98a1-5e6572-a9b4c2-eef1ef
+
+Mindaro:d9ed92 b5e48c 99d98c 76c893 52b69a 34a0a4 168aad 1a759f 1e6091 184e77
+font-family-3: https://coolors.co/palette/d9ed92-b5e48c-99d98c-76c893-52b69a-34a0a4-168aad-1a759f-1e6091-184e77
+
+Ash gray: b4b8ab 153243 284b63 f4f9e9 eef0eb
+font-family-4: https://coolors.co/palette/b4b8ab-153243-284b63-f4f9e9-eef0eb
+
